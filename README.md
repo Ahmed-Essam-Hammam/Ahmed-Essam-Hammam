@@ -108,14 +108,22 @@ Persona-aware dialogue generation system with fine-tuned GPT-2, featuring contex
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Essam-Hammam&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Essam-Hammam&layout=compact&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Essam-Hammam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ahmed-Essam-Hammam)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Essam-Hammam&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Essam-Hammam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Ahmed-Essam-Hammam)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Essam-Hammam&theme=tokyonight&hide_border=true)](https://github.com/Ahmed-Essam-Hammam)
 
 </div>
+
+<!--
+If the stats above don't load, you can also try these alternatives:
+- GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
+- GitHub Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
+- Profile Views Counter: https://komarev.com/ghpvc/?username=Ahmed-Essam-Hammam
+
+-->
 
 ---
 
