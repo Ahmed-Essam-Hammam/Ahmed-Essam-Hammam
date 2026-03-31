@@ -16,7 +16,6 @@ I'm an **AI and Machine Learning Engineer** specializing in **Generative AI**, *
 - 🔭 Currently developing multi-agent systems and LLM-powered applications
 - 🌱 Exploring the latest in AI alignment, RLHF, and preference learning
 - 💡 Passionate about solving high-impact industrial problems with AI
-- 📍 Based in Port Said, Egypt
 
 ---
 
